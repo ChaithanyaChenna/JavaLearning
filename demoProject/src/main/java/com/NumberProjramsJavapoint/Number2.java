@@ -26,6 +26,8 @@ public class Number2 {
             num=num/10;
             len--;
         }
+       //  Number2 a=new Number2();
+
         if(n==sum)
         {
             System.out.println("the given number is disarium number");
